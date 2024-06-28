@@ -1,10 +1,12 @@
 # [Welcome to my GitHub Page](https://github.com/VanPhuDev)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=200&duration=1000&pause=1000&color=F718D4&center=true&vCenter=true&random=false&width=3000&height=290&lines=Welcome+to+My+Github+Page;Hi+There+!;I'm+V%C4%83n+Ph%C3%BA+Dev)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/vanphudev/vanphudev/main/profile.gif" alt="Hi There! I'm Văn Phú" />
-# DownLoad My CV:
- <a href="https://link.aaronmeese.com/linkedin">
-        <img src="https://img.shields.io/badge/linkedIn-aaronmeese-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" title="LinkedIn">
-</a>
+
+# Download My CV:
+ <p>Click here to download: </p>
+ <a href="https://github.com/VanPhuDev">
+    <img src="https://img.shields.io/badge/Download-CV-1DB954?style=flat-square&logo=cv&logoColor=white&color=red" alt="CV" title="download-cv">
+ </a>
 
 # Personal Information: 
 <table width="100%">
