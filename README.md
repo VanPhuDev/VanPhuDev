@@ -48,6 +48,8 @@
 ![Languages CSS](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Languages CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+# Project:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanphudev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 # Github Stats:
 <picture>
   <source
