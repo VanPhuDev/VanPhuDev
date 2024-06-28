@@ -93,7 +93,7 @@
 
 <br/>
 
-# 🔥 Github Stats:
+# 🔥 Github Stats & Streak:
 <table width="100%">
   <tr>
     <td width="50%">
