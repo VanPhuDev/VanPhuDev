@@ -79,7 +79,7 @@
 <h3>Open source projects 🌟:</h3>
 <table width="100%">
   <thead width="100%">
-    <tr border: none;>
+    <tr>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Technologies Used</b></td>
       <td><b>📚 Describe</b></td>
