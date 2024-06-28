@@ -36,14 +36,14 @@
 
 ### Programing Languages
 [![Languages C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white 
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white 
+[![Languages HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
+[![Languages CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]
 
 ### 🛠 Language stats
 <table width="100%">
   <tr>
   <td width="50%">
-    [![Top Langs One](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs One](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)]
   </td>
   <td width="50%">
     [![Top Langs Two](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
