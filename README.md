@@ -34,7 +34,7 @@
 
 # 🔭 Personal Information: 
 <table width="100%">
-  <tr>
+  <tr align="center">
     <td width="50%">
       <h3>Contact</h3>
     </td>
@@ -56,8 +56,6 @@
     <td width="50%">
       <p align="center">
         I am "Văn Phú" and now Software Engineering (SE) student, I learn new things about programming and worked with many languages and technologies.
-      </p>
-      <p align="center">
       </p>
     </td>
   </tr>
