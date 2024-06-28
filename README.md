@@ -1,9 +1,14 @@
+
 # [Welcome to my GitHub Page](https://github.com/VanPhuDev)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=200&duration=1000&pause=1000&color=F718D4&center=true&vCenter=true&random=false&width=3000&height=290&lines=Welcome+to+My+Github+Page;Hi+There+!;I'm+V%C4%83n+Ph%C3%BA+Dev)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/vanphudev/vanphudev/main/profile.gif" alt="Hi There! I'm Văn Phú" />
 
 # ⬇ Download My CV:
-[![Click here to download CV](https://github.com/codespaces/badge.svg)](https://github.com/VanPhuDev)
+<div align="center">
+  <a href="https://github.com/VanPhuDev">
+     <img width="400px" src="https://img.shields.io/badge/Click here to Download CV-1DB954?style=flat-square&logoColor=white&color=blue" alt="Download My CV" title="Download My CV">
+  </a>
+</div>
 
 # 📌 Personal Information: 
 <table width="100%">
@@ -29,7 +34,7 @@
         <img src="https://img.shields.io/badge/medium-ajmeese7-1DB954?style=flat-square&logo=medium&logoColor=white" alt="Medium" title="Medium">
       </a>
       <a href="https://link.aaronmeese.com/linkedin">
-        <img src="https://img.shields.io/badge/linkedIn-aaronmeese-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" title="LinkedIn">
+        <img src="https://img.shields.io/badge/linkedIn-aaronmeese-1DB954?style=flat-square&logo=&logoColor=white&color=blue" alt="Click here to download CV" title="Click here to download CV">
       </a>
     </p>
   </td>
