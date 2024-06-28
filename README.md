@@ -77,25 +77,21 @@
 
 # 🌱 Projects And Experience:
 <h3>Open source projects 🌟:</h3>
+
 <table width="100%">
-  <thead width="100%">
-    <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Technologies Used</b></td>
-      <td><b>📚 Describe</b></td>
-      <td><b>👤 Number of members</b></td>
-    </tr>
-  </thead>
-  <tbody width="100%">
-    <tr>
-      <td><a href="https://github.com/VanPhuDev""><b>Bách Hóa Xanh Clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-  </tbody>
-</table> 
+  <tr>
+    <td><b>🎁 Projects</b></td>
+    <td><b>⭐ Technologies Used</b></td>
+    <td><b>📚 Describe</b></td>
+    <td><b>👤 Number of members</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/VanPhuDev""><b>Bách Hóa Xanh Clone</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
+  </tr>
+</table>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vanphudev&repo=website_bachhoaxanh_clone)]()
 
