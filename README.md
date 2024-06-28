@@ -6,7 +6,7 @@
 <table width="100%">
   <tr>
   <td width="50%">
-    <h2>Contact</h2>
+    <h2>Contact</h2>https://github.com/vanphudev/vanphudev/tree/main
     
   </td>
   <td width="50%">
@@ -49,12 +49,12 @@
 ![Languages CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #  Projects And Experience:
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vanphudev&repo=website_bachhoaxanh_clone)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vanphudev&repo=website_bachhoaxanh_clone)]()
 
 
 # Github Chart Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)]()
 # Github Stats:
 <picture>
   <source
@@ -62,8 +62,8 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true" />
 </picture>
