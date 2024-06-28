@@ -13,11 +13,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanphudev&label=Profile%20views&color=0e75b6&style=flat" alt="vanphudev" /> </p>
+<p align="left"> <img width="200px" src="https://komarev.com/ghpvc/?username=vanphudev&label=Profile%20views&color=0e75b6&style=flat" alt="vanphudev" /> </p>
 
-<p align="left"> <a href="https://www.facebook.com/vanphu.huit" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=facebook&style=for-the-badge" alt=""  </p>
+<p align="left"> <a href="https://www.facebook.com/vanphu.huit" target="blank"><img  width="200px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />  </p>
 
-- 🔭I am "Văn Phú" and now Software Engineering (SE) student
+- 🔭 I am "Văn Phú" and now Software Engineering (SE) student
   
 - 🌱 I’m currently learning **Frontend Developer**
 
@@ -41,10 +41,10 @@
       <p align="left">
       <a href="mailto:vuonggiaphu.pct@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-         <a href="https://www.facebook.com/vanphu.huit" target="_blank">
+      </a>
+      <a href="https://www.facebook.com/vanphu.huit" target="_blank">
           <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-        </a>
+     </a>
       </p>
   </td>
   <td width="50%">
