@@ -33,3 +33,15 @@
   </td>
 
 </table>
+
+### 🛠 Languages and Tools
+<table width="100%">
+  <tr>
+  <td width="50%">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)]
+  </td>
+  <td width="50%">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)]
+  </td>
+  </tr>
+</table>
