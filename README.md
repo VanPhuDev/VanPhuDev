@@ -14,6 +14,15 @@
   <tr>
   <td width="50%">
     <h2>Contact</h2>
+    <h3>Where to find me 🗺️</h3>
+      <p align="left">
+      <a href="mailto:vuonggiaphu.pct@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+         <a href="[https://facebook.com/EmadBeltaje](https://www.facebook.com/vanphu.huit)" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
+      </p>
   </td>
   <td width="50%">
     <h2>About Me</h2>
@@ -62,7 +71,7 @@
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Technologies Used</b></td>
       <td><b>📚 Describe</b></td>
-      <td><b>👤 number of members</b></td>
+      <td><b>👤 Number of members</b></td>
     </tr>
   </thead>
   <tbody>
