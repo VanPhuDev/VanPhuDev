@@ -35,18 +35,18 @@
 </table>
 
 ### Programing Languages
-[![Languages C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![Languages C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
 https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white 
 https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white 
 
-### 🛠 Languages and Tools
+### 🛠 Language stats
 <table width="100%">
   <tr>
   <td width="50%">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)](https://github.com/vanphudev/vanphudev)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   </td>
   <td width="50%">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)](https://github.com/vanphudev/vanphudev
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
   </td>
   </tr>
 </table>
