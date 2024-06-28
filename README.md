@@ -23,6 +23,8 @@
 
 - 📫 How to reach me **vuonggiaphu.pct@gmail.com**
 
+<br/>
+
 # ⬇ Download My CV:
 <div align="center">
   <a href="https://github.com/VanPhuDev">
