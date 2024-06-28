@@ -2,10 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=200&duration=1000&pause=1000&color=F718D4&center=true&vCenter=true&random=false&width=3000&height=290&lines=Welcome+to+My+Github+Page;Hi+There+!;I'm+V%C4%83n+Ph%C3%BA+Dev)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/vanphudev/vanphudev/main/profile.gif" alt="Hi There! I'm Văn Phú" />
 
-
 <br/>
-
-
 
 # ⬇ Download My CV:
 <div align="center">
@@ -14,10 +11,7 @@
   </a>
 </div>
 
-
 <br/>
-
-
 
 # 🔭 Personal Information: 
 <table width="100%">
@@ -62,9 +56,7 @@
 ![Languages CSS](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Languages CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 <br/>
-
 
 # 🌱 Projects And Experience:
 <h3>Open source projects 🌟:</h3>
@@ -90,27 +82,35 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vanphudev&repo=website_bachhoaxanh_clone)]()
 
-
 <br/>
-
 
 # 📌 Github Chart Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)]()
 
-
 <br/>
 
-
-# 💪🏻 Github Stats:
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true" />
-</picture>
+# 🔥 Github Stats:
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true" />
+      </picture>
+    </td>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vanphudev&theme=dark">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanphudev" alt="emadbeltaje" />
+      </picture>
+    </td>
+  </tr>
+</table>
