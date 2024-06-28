@@ -106,26 +106,16 @@
 <br/>
 
 # 🔥 Github Stats & Streak:
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=vanphudev&show_icons=true" />
-      </picture>
-    </td>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vanphudev&theme=dark">
-        <img height="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanphudev" alt="vanphudev" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=vanphudev&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vanphudev&theme=radical&hide_border=false"/><br/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
+<br/>
+
+## 🏆GitHub Trophies:
+<div align="center">
+  <img  src="https://github-trophies.vercel.app/?username=vanphudev&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
+
