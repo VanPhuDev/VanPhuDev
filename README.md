@@ -35,26 +35,28 @@
 # 🔭 Personal Information: 
 <table width="100%">
   <tr>
-  <td width="50%">
-    <h2>Contact</h2>
-    <h3>Where to find me 🗺️</h3>
-      <a href="mailto:vuonggiaphu.pct@gmail.com" target="_blank">
+    <td width="50%">
+      <h2>Contact</h2>
+      <h3>Where to find me 🗺️</h3>
+           <a width="100%" href="mailto:vuonggiaphu.pct@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
-      <a href="https://www.facebook.com/vanphu.huit" target="_blank">
+        &nbsp;
+      <a width="100%" height="auto" href="https://www.facebook.com/vanphu.huit" target="_blank">
           <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
      </a>
-  </td>
-  <td width="50%">
-    <h2>About Me</h2>
-    <p align="center">
-    I am "Văn Phú" and now Software Engineering (SE) student, I learn new things about programming and worked with many languages and technologies.
-    </p>
-    <p align="center">
-    </p>
-  </td>
+    </td>
+    <td width="50%">
+      <h2>About Me</h2>
+      <p align="center">
+        I am "Văn Phú" and now Software Engineering (SE) student, I learn new things about programming and worked with many languages and technologies.
+      </p>
+      <p align="center">
+      </p>
+    </td>
   </tr>
 </table>
+
 
 <br/>
 
@@ -116,4 +118,3 @@
 <div align="center">
   <img  src="https://github-trophies.vercel.app/?username=vanphudev&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
-
