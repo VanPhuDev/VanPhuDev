@@ -41,7 +41,6 @@
       <a href="mailto:vuonggiaphu.pct@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
-    
       <a href="https://www.facebook.com/vanphu.huit" target="_blank">
           <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
      </a>
@@ -102,7 +101,7 @@
 
 <br/>
 
-# 📌 Github Chart Languages:
+# 📊 Github Chart Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)]()
 
@@ -127,7 +126,7 @@
     <td width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vanphudev&theme=dark">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanphudev" alt="emadbeltaje" />
+        <img height="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanphudev" alt="vanphudev" />
       </picture>
     </td>
   </tr>
