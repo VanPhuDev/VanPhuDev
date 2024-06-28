@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img width="200px" src="https://visitcount.itsvg.in/api?id=vanphudev&icon=0&color=0" alt="vanphudev" /> </p>
+<p align="left"> <img width="200px" src="https://komarev.com/ghpvc/?username=vanphudev&style=flat-square" alt="vanphudev" /> </p>
 
 <p align="left"> <a href="https://www.facebook.com/vanphu.huit" target="blank"><img  width="200px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />  </p>
 
