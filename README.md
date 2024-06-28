@@ -2,13 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=200&duration=1000&pause=1000&color=F718D4&center=true&vCenter=true&random=false&width=3000&height=290&lines=Welcome+to+My+Github+Page;Hi+There+!;I'm+V%C4%83n+Ph%C3%BA+Dev)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/vanphudev/vanphudev/main/profile.gif" alt="Hi There! I'm Văn Phú" />
 
-# Download My CV:
- <p>Click here to download: </p>
- <a href="https://github.com/VanPhuDev">
-    <img src="https://img.shields.io/badge/Download-CV-1DB954?style=flat-square&logo=cv&logoColor=white&color=red" alt="CV" title="download-cv">
- </a>
+# ⬇ Download My CV:
+[![Click here to download CV](https://github.com/codespaces/badge.svg)](https://github.com/VanPhuDev)
 
-# Personal Information: 
+# 📌 Personal Information: 
 <table width="100%">
   <tr>
   <td width="50%">
@@ -39,7 +36,7 @@
   </tr>
 </table>
 
-# Programming Languages:
+# 📌 Programming Languages:
 ![Languages C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Languages HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Languages CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -54,11 +51,11 @@
 ![Languages CSS](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Languages CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#  Projects And Experience:
+# 📌 Projects And Experience:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vanphudev&repo=website_bachhoaxanh_clone)]()
 
 
-# Github Chart Languages:
+# 📌 Github Chart Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)]()
 # Github Stats:
