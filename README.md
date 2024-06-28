@@ -43,10 +43,10 @@ https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor
 <table width="100%">
   <tr>
   <td width="50%">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs One](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   </td>
   <td width="50%">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs Two](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
   </td>
   </tr>
 </table>
