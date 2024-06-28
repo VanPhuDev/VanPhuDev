@@ -38,10 +38,10 @@
 <table width="100%">
   <tr>
   <td width="50%">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)]
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)](https://github.com/vanphudev/vanphudev)
   </td>
   <td width="50%">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)]
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)](https://github.com/vanphudev/vanphudev
   </td>
   </tr>
 </table>
