@@ -1,7 +1,6 @@
 # [Welcome to my GitHub Page](https://github.com/VanPhuDev)
-<img src="https://raw.githubusercontent.com/vanphudev/vanphudev/main/profile.gif" alt="Hi There! I'm Văn Phú" />
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=200&duration=1000&pause=1000&color=F718D4&center=true&vCenter=true&random=false&width=3000&height=290&lines=Welcome+to+My+Github+Page;Hi+There+!;I'm+V%C4%83n+Ph%C3%BA+Dev)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/vanphudev/vanphudev/main/profile.gif" alt="Hi There! I'm Văn Phú" />
 
 # Personal Information: 
 <table width="100%">
