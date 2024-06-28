@@ -77,7 +77,7 @@
 
 # 🌱 Projects And Experience:
 <h3>Open source projects 🌟:</h3>
-<table>
+<table width="100%">
   <thead align="left">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
