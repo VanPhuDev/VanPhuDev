@@ -78,7 +78,7 @@
 # 🌱 Projects And Experience:
 <h3>Open source projects 🌟:</h3>
 <table width="100%">
-  <thead align="left">
+  <thead width="100%">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Technologies Used</b></td>
@@ -86,7 +86,7 @@
       <td><b>👤 Number of members</b></td>
     </tr>
   </thead>
-  <tbody>
+  <tbody width="100%">
     <tr>
       <td><a href="https://github.com/VanPhuDev""><b>Bách Hóa Xanh Clone</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
