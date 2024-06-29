@@ -103,9 +103,14 @@
 
 <br/>
 
-# 📊 Github Chart Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie)]()
+# 📊 Github Most Used Languages:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical"/>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=pie"/>
+</div>
 
 <br/>
 
