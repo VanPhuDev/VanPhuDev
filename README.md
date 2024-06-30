@@ -2,14 +2,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=200&duration=1000&pause=1000&color=F718D4&center=true&vCenter=true&random=false&width=3000&height=290&lines=Welcome+to+My+Github+Page;Hi+There+!;I'm+V%C4%83n+Ph%C3%BA+Dev)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vanphudev/vanphudev/main/profile.gif" alt="Hi There! I'm Văn Phú" />
+  <img src="https://cdn.dribbble.com/userupload/15358412/file/original-567d1ef83d4dc0d1ca18634ec0f1f76c.gif" alt="Hi There! I'm Văn Phú" />
 </div>
 
 <br/>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Văn Phú</h1>
 <h3 align="center">A passionate Frontend Developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/15358411/file/original-cbbc3770f3d5a454963bb23973f2ef10.gif">
 
 <p align="left"> <img width="200px" src="https://komarev.com/ghpvc/?username=vanphudev&color=green&style=plastic" alt="vanphudev" /> </p>
 
