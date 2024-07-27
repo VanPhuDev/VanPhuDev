@@ -22,7 +22,7 @@
 # ⬇ Download My CV:
 <div align="center">
   <a href="https://github.com/VanPhuDev">
-     <img width="400px" src="https://img.shields.io/badge/Click here to Download CV INTERNSHIP-1DB954?style=flat-square&logoColor=white&color=blue" alt="Download My CV" title="Download My CV">
+     <img width="500px" src="https://img.shields.io/badge/Click here to Download CV INTERNSHIP-1DB954?style=flat-square&logoColor=white&color=blue" alt="Download My CV" title="Download My CV">
   </a>
 </div>
 
