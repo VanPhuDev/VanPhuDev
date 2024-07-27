@@ -13,7 +13,7 @@
 
 - 🔭 I am "Văn Phú" and now **Software Engineering (SE)** student.
   
-- 🌱 I’m currently learning **Frontend Developer.**
+- 🌱 I’m currently studying **Frontend Developer.**
 
 - 📫 **How to Reach Me ?**
 
