@@ -84,6 +84,22 @@
   </tr>
 </table>
 
+<br/>
+
+## :trophy: Certifications
+
+<div align="left">
+  <h4>Certifications 01</h4>
+  <ul>
+    <li>
+      <strong>Responsive Web Design</strong><br>
+      Issued By: <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp - Official Website</a><br>
+      Personal Profile: <a href="PROFILE_LINK" target="_blank">Profile Link</a><br>
+      Date Issued: July 11, 2024<br>
+      Verification Link: <a href="VERIFICATION_LINK" target="_blank">Verification Link</a>
+    </li>
+  </ul>
+</div>
 
 <br/>
 
