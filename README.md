@@ -9,8 +9,6 @@
 
 <p align="left"> <img width="200px" src="https://komarev.com/ghpvc/?username=vanphudev&color=green&style=plastic" alt="vanphudev" /> </p>
 
-<p align="left"> <a href="https://www.facebook.com/vanphu.huit" target="blank"><img  width="200px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />  </p>
-
 - 🔭 I am "Văn Phú" and now Software Engineering (SE) student
   
 - 🌱 I’m currently learning **Frontend Developer**
