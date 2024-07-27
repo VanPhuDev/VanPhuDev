@@ -84,7 +84,7 @@
   <tr align="center">
     <td><b>🌟 Projects</b></td>
     <td><b>📚 Technologies Used</b></td>
-    <td><b>⭐ Describe</b></td>
+    <td><b>⭐ Results and Achievements</b></td>
     <td><b>👤 Number of members</b></td>
   </tr>
   <tr align="center">
