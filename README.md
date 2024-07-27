@@ -88,18 +88,26 @@
 
 ## :trophy: Certifications
 
-<div align="left">
-  <h4>Certifications 01</h4>
-  <ul>
-    <li>
-      <strong>Responsive Web Design</strong><br>
-      Issued By: <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp - Official Website</a><br>
-      Personal Profile: <a href="https://www.freecodecamp.org/vanphudev" target="_blank">Profile Link</a><br>
-      Date Issued: July 11, 2024<br>
-      Verification Link: <a href="https://www.freecodecamp.org/certification/vanphudev/responsive-web-design" target="_blank">Verification Link</a>
-    </li>
-  </ul>
+## :trophy: Certifications
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="IMAGE_URL" alt="Responsive Web Design Certificate" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+  </div>
+  <div style="flex: 2;">
+    <h4>Certifications 01</h4>
+    <ul>
+      <li>
+        <strong>Responsive Web Design</strong><br>
+        Issued By: <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp - Official Website</a><br>
+        Personal Profile: <a href="https://www.freecodecamp.org/vanphudev" target="_blank">Profile Link</a><br>
+        Date Issued: July 11, 2024<br>
+        Verification Link: <a href="https://www.freecodecamp.org/certification/vanphudev/responsive-web-design" target="_blank">Verification Link</a>
+      </li>
+    </ul>
+  </div>
 </div>
+
 
 <br/>
 
