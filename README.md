@@ -21,7 +21,7 @@
       -  **Gmail:** nguyenvanphu.hufi@gmail.com  or  vuonggiaphu.pct@gmail.com.
       -  **Facebook:** https://www.facebook.com/vanphu.huit/.
       -  **Linkedin** https://www.linkedin.com/in/vanphudev/.
-      -  **Zalo:** [https://zalo/vanphudev/](https://s.net.vn/a0ay).
+      -  **Zalo:** [https://zalo/vanphudev/](https://tinyurl.com/mshft7k7).
   -  Feel free to reach out for any inquiries or collaborations.
 
 
@@ -30,12 +30,12 @@
 # ⬇ Download My CV:
 - :arrow_down: To download my CV, please click the button below:
 <div align="center">
-  <a href="https://s.net.vn/0hOr">
+  <a href="https://tinyurl.com/ysdf6huv">
      <img width="500px" src="https://img.shields.io/badge/Click here to Download CV Internship-1DB954?style=flat-square&logoColor=white&color=blue" alt="Download My CV" title="Download My CV">
   </a>
   <h3>OR</h3>
   <h3>If the link above does not download my CV, please try this button:</h3>
-  <a href="https://s.net.vn/Blfb">
+  <a href="https://tinyurl.com/yazam8ur">
      <img width="500px" src="https://img.shields.io/badge/Click here to Download CV Alternative-1DB954?style=flat-square&logoColor=red&color=red" alt="Download My CV" title="Download My CV">
   </a>
 </div>
