@@ -47,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" vertical-align: top;>
       <h3>Where to find me 🗺️</h3>
           <a width="100%" href="mailto:nguyenvanphu.hufi@gmail.com" target="_blank">
               <img src="https://img.shields.io/badge/nguyenvanphu.hufi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -88,25 +88,25 @@
 
 ## :trophy: Certifications
 
-## :trophy: Certifications
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <img src="IMAGE_URL" alt="Responsive Web Design Certificate" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px;">
-  </div>
-  <div style="flex: 2;">
-    <h4>Certifications 01</h4>
-    <ul>
-      <li>
-        <strong>Responsive Web Design</strong><br>
-        Issued By: <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp - Official Website</a><br>
-        Personal Profile: <a href="https://www.freecodecamp.org/vanphudev" target="_blank">Profile Link</a><br>
-        Date Issued: July 11, 2024<br>
-        Verification Link: <a href="https://www.freecodecamp.org/certification/vanphudev/responsive-web-design" target="_blank">Verification Link</a>
-      </li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/vanphudev/vanphudev/blob/main/certification-vanphudev-responsive-web-design.png" alt="Responsive Web Design Certificate">
+    </td>
+    <td width="50%">
+      <h1>Certifications 01</h4>
+      <ul>
+        <li>
+          <strong>Responsive Web Design</strong><br>
+          Issued By: <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp - Official Website</a><br>
+          Personal Profile: <a href="https://www.freecodecamp.org/vanphudev" target="_blank">Profile Link</a><br>
+          Date Issued: July 11, 2024<br>
+          Verification Link: <a href="https://www.freecodecamp.org/certification/vanphudev/responsive-web-design" target="_blank">Verification Link</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 <br/>
