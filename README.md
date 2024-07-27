@@ -20,7 +20,7 @@
   -  You can contact me at:
       -  **Gmail:** nguyenvanphu.hufi@gmail.com  or  vuonggiaphu.pct@gmail.com.
       -  **Facebook:** https://www.facebook.com/vanphu.huit/.
-      -  **Linkedin** https://www.linkedin.com/in/vanphudev/.
+      -  **Linkedin:** https://www.linkedin.com/in/vanphudev/.
       -  **Zalo:** [https://zalo/vanphudev/](https://tinyurl.com/mshft7k7).
   -  Feel free to reach out for any inquiries or collaborations.
 
