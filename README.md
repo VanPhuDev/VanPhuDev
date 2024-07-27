@@ -72,7 +72,7 @@
       <div align="left">
         <ul>
           <li><strong>Name:</strong>Nguyen Van Phu</li>
-          <li><strong>Date of Birth:</strong> May 29, 2003</li>
+          <li><strong>Date of Birth:</strong> May 28, 2003</li>
           <li><strong>Age:</strong> 21</li>
           <li><strong>Gender:</strong> Male</li>
           <li><strong>Current Status:</strong> I am a Software Engineering (SE) student at <a href="https://www.huit.edu.vn" target="_blank">HUIT, HCM City</a>. I am continuously learning new things about programming and have worked with various languages and technologies.</li>
