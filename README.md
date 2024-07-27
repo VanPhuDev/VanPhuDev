@@ -15,7 +15,7 @@
   
 - 🌱 I’m currently learning **Frontend Developer**
 
-- 📫 How to reach me **vuonggiaphu.pct@gmail.com**
+- 📫 How to reach me **nguyenvanphu.hufi@gmail.com**
 
 <br/>
 
@@ -41,7 +41,7 @@
   <tr>
     <td width="50%">
       <h3>Where to find me 🗺️</h3>
-           <a width="100%" href="mailto:vuonggiaphu.pct@gmail.com" target="_blank">
+           <a width="100%" href="mailto:nguyenvanphu.hufi@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
         <br/>
