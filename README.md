@@ -18,7 +18,7 @@
 - 📫 **How to Reach Me ?**
 
   -  You can contact me at:
-      -  **Gmail:** nguyenvanphu.hufi@gmail.com.
+      -  **Gmail:** nguyenvanphu.hufi@gmail.com  or  vuonggiaphu.pct@gmail.com.
       -  **Facebook:** https://www.facebook.com/vanphu.huit/.
       -  **Linkedin** https://www.linkedin.com/in/vanphudev/.
       -  **Zalo:** [https://zalo/vanphudev/](https://s.net.vn/a0ay).
@@ -47,20 +47,37 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3>Where to find me 🗺️</h3>
-           <a width="100%" href="mailto:nguyenvanphu.hufi@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-        <br/>
-      <a width="100%" height="auto" href="https://www.facebook.com/vanphu.huit" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-     </a>
+          <a width="100%" href="mailto:nguyenvanphu.hufi@gmail.com" target="_blank">
+              <img src="https://img.shields.io/badge/nguyenvanphu.hufi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          </a>
+          <a width="100%" href="mailto:vuonggiaphu.pct@gmail.com" target="_blank">
+              <img src="https://img.shields.io/badge/vuonggiaphu.pct@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          </a>
+          <br/>
+          <a width="100%" height="auto" href="https://www.facebook.com/vanphu.huit" target="_blank">
+              <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+          </a>
+          <br/>
+          <a width="100%" height="auto" href="https://www.facebook.com/vanphu.huit" target="_blank">
+              <img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+          <br/>
+          <a width="100%" height="auto" href="https://www.facebook.com/vanphu.huit" target="_blank">
+              <img src="https://img.shields.io/badge/Zalo-1877F2?style=for-the-badge&logo=zalo&logoColor=white" />
+          </a>
     </td>
     <td width="50%">
-      <p align="center">
-        I am "Văn Phú" and now Software Engineering (SE) student, I learn new things about programming and worked with many languages and technologies.
-      </p>
+      <div align="left">
+        <ul>
+          <li><strong>Name:</strong>Nguyen Van Phu</li>
+          <li><strong>Date of Birth:</strong> May 29, 2003</li>
+          <li><strong>Age:</strong> 21</li>
+          <li><strong>Gender:</strong> Male</li>
+          <li><strong>Current Status:</strong> I am a Software Engineering (SE) student at <a href="https://www.huit.edu.vn" target="_blank">HUIT, HCM City</a>. I am continuously learning new things about programming and have worked with various languages and technologies.</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
