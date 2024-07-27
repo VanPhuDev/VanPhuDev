@@ -9,7 +9,9 @@
 
 <p align="left"> <img width="200px" src="https://komarev.com/ghpvc/?username=vanphudev&color=green&style=plastic" alt="vanphudev" /> </p>
 
-- 🔭 I am "Văn Phú" and now Software Engineering (SE) student
+- 🎓 I am currently learning at [**HUIT, HCM City**](https://huit.edu.vn/). 
+
+- 🔭 I am "Văn Phú" and now **Software Engineering (SE)** student
   
 - 🌱 I’m currently learning **Frontend Developer**
 
