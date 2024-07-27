@@ -28,9 +28,16 @@
 <br/>
 
 # ⬇ Download My CV:
+- :arrow_down: To download my CV, please click the button below:
 <div align="center">
   <a href="https://s.net.vn/0hOr">
      <img width="500px" src="https://img.shields.io/badge/Click here to Download CV Internship-1DB954?style=flat-square&logoColor=white&color=blue" alt="Download My CV" title="Download My CV">
+  </a>
+  <br/>
+  Or
+  <br/>
+  <a href="https://s.net.vn/0hOr">
+     <img width="500px" src="https://img.shields.io/badge/Click here to Download CV Alternative-1DB954?style=flat-square&logoColor=white&color=blue" alt="Download My CV" title="Download My CV">
   </a>
 </div>
 
