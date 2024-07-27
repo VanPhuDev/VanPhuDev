@@ -88,7 +88,7 @@
     <td><b>👤 Number of members</b></td>
   </tr>
   <tr align="center">
-    <td><a href="https://github.com/VanPhuDev""><b>Website "Bach Hoa Xanh" Clone</b></a></td>
+    <td><a href="https://github.com/vanphudev/website_bachhoaxanh_clone"><b>Website "Bach Hoa Xanh" Clone</b></a></td>
     <td>
       <span><img src="https://img.shields.io/badge/Laravel 11-282C34?logo=Laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
       <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="mysql" height="25" /></span>
@@ -102,7 +102,7 @@
   </tr>
 </table>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vanphudev&repo=website_bachhoaxanh_clone)]()
+[![Website "Bach Hoa Xanh" Clone](https://github-readme-stats.vercel.app/api/pin/?username=vanphudev&repo=website_bachhoaxanh_clone)](https://github.com/vanphudev/website_bachhoaxanh_clone)
 
 <br/>
 
