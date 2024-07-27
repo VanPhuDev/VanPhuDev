@@ -76,6 +76,8 @@
           <li><strong>Age:</strong> 21</li>
           <li><strong>Gender:</strong> Male</li>
           <li><strong>Current Status:</strong> I am a Software Engineering (SE) student at <a href="https://www.huit.edu.vn" target="_blank">HUIT, HCM City</a>. I am continuously learning new things about programming and have worked with various languages and technologies.</li>
+          <li><strong>Address:</strong> Tan Phu District, HCM City</li>
+          <li><strong>Field of Interest:</strong> I am currently focused on becoming a Frontend Developer, creating engaging and user-friendly interfaces. However, I am also aspiring to become a Full-Stack Developer in the future, aiming to master both frontend and backend technologies to handle all aspects of web development.</li>
         </ul>
       </div>
     </td>
