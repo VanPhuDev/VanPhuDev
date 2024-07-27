@@ -94,9 +94,9 @@
     <li>
       <strong>Responsive Web Design</strong><br>
       Issued By: <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp - Official Website</a><br>
-      Personal Profile: <a href="PROFILE_LINK" target="_blank">Profile Link</a><br>
+      Personal Profile: <a href="https://www.freecodecamp.org/vanphudev" target="_blank">Profile Link</a><br>
       Date Issued: July 11, 2024<br>
-      Verification Link: <a href="VERIFICATION_LINK" target="_blank">Verification Link</a>
+      Verification Link: <a href="https://www.freecodecamp.org/certification/vanphudev/responsive-web-design" target="_blank">Verification Link</a>
     </li>
   </ul>
 </div>
