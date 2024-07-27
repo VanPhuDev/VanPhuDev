@@ -15,7 +15,15 @@
   
 - 🌱 I’m currently learning **Frontend Developer**
 
-- 📫 How to reach me **nguyenvanphu.hufi@gmail.com**
+- 📫 **How to Reach Me ?**
+
+  -  You can contact me at:
+      -  **Gmail:** nguyenvanphu.hufi@gmail.com.
+      -  **Facebook:** https://www.facebook.com/vanphu.huit/.
+      -  **Linkedin** https://www.linkedin.com/in/vanphudev/.
+      -  **Zalo:** [https://zalo/vanphudev/](https://s.net.vn/a0ay)
+  -  Feel free to reach out for any inquiries or collaborations.
+
 
 <br/>
 
