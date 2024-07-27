@@ -97,7 +97,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github.com/vanphudev/vanphudev/blob/main/certification-vanphudev-responsive-web-design.png" alt="Responsive Web Design Certificate">
+      <a href="https://www.freecodecamp.org/certification/vanphudev/responsive-web-design" target="_blank"><img src="https://github.com/vanphudev/vanphudev/blob/main/certification-vanphudev-responsive-web-design.png" alt="Responsive Web Design Certificate"></a>
     </td>
     <td width="50%">
       <h1>Certifications Frontend</h4>
