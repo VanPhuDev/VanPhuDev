@@ -94,7 +94,7 @@
       <img src="https://github.com/vanphudev/vanphudev/blob/main/certification-vanphudev-responsive-web-design.png" alt="Responsive Web Design Certificate">
     </td>
     <td width="50%">
-      <h1>Certifications 01</h4>
+      <h1>Certifications Frontend</h4>
       <ul>
         <li>
           <strong>Responsive Web Design</strong><br>
