@@ -11,9 +11,9 @@
 
 - 🎓 I am currently learning at [**HUIT, HCM City**](https://huit.edu.vn/). 
 
-- 🔭 I am "Văn Phú" and now **Software Engineering (SE)** student
+- 🔭 I am "Văn Phú" and now **Software Engineering (SE)** student.
   
-- 🌱 I’m currently learning **Frontend Developer**
+- 🌱 I’m currently learning **Frontend Developer.**
 
 - 📫 **How to Reach Me ?**
 
@@ -21,7 +21,7 @@
       -  **Gmail:** nguyenvanphu.hufi@gmail.com.
       -  **Facebook:** https://www.facebook.com/vanphu.huit/.
       -  **Linkedin** https://www.linkedin.com/in/vanphudev/.
-      -  **Zalo:** [https://zalo/vanphudev/](https://s.net.vn/a0ay)
+      -  **Zalo:** [https://zalo/vanphudev/](https://s.net.vn/a0ay).
   -  Feel free to reach out for any inquiries or collaborations.
 
 
