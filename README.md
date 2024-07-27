@@ -70,7 +70,7 @@
               <img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" />
           </a>
           <br/>
-          <a width="100%" height="auto" href="https://s.net.vn/a0ay" target="_blank">
+          <a width="100%" height="auto" href="https://tinyurl.com/mshft7k7" target="_blank">
               <img src="https://img.shields.io/badge/Zalo-1877F2?style=for-the-badge&logo=zalo&logoColor=white" />
           </a>
     </td>
