@@ -77,7 +77,7 @@
 
 <br/>
 
-# 🚀 Projects And Experience:
+# 🚀 Projects:
 <h3>Open source projects 🌟:</h3>
 
 <table align="center">
