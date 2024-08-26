@@ -31,7 +31,7 @@
 # ⬇ Download My CV:
 - :arrow_down: To download my CV, please click the button below:
 <div align="center">
-  <a href="https://tinyurl.com/ysdf6huv">
+  <a href="https://res.cloudinary.com/dkhkjaual/image/upload/v1724685135/CV-NguyenVanPhu-Internship-FrontendDeveloper_4_p1fdtl.pdf">
      <img width="500px" src="https://img.shields.io/badge/Click here to Download CV Internship-1DB954?style=flat-square&logoColor=white&color=blue" alt="Download My CV" title="Download My CV">
   </a>
   <h3>OR</h3>
@@ -98,7 +98,7 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://www.freecodecamp.org/certification/vanphudev/responsive-web-design" target="_blank"><img src="https://github.com/vanphudev/vanphudev/blob/main/certification-vanphudev-responsive-web-design.png" alt="Responsive Web Design Certificate"></a>
+      <a href="https://www.freecodecamp.org/certification/vanphudev/responsive-web-design" target="_blank"><img src="https://res.cloudinary.com/dkhkjaual/image/upload/v1724684869/certification-vanphudev-responsive-web-design_g71plm.png" alt="Responsive Web Design Certificate"></a>
     </td>
     <td width="50%">
       <h1>Certifications Frontend</h4>
